@@ -1,0 +1,11 @@
+ <h1>Merhaba, Ben Mehmet!</h1>
+ <p>Ben Mehmet, Acunmedya Akademisi'nde öğrenim gören biriyim ve bu platformda sizlere içerik sunmaktan heyecan duyuyorum. Medya dünyasına olan ilgim ve tutkum, beni sürekli olarak yeni bilgiler öğrenmeye ve deneyim kazanmaya yönlendiriyor.</p>
+
+ <h2>Eğitim ve Kariyer</h2>
+ <p>Acunmedya Akademisi'nde aldığım eğitim, medya sektöründeki en son trendleri ve teknikleri öğrenmemi sağladı. Bu süreçte, televizyonculuk, dijital medya, içerik üretimi ve pazarlama konularında geniş bir bilgi birikimine sahip oldum. Aynı zamanda, stajlarım ve projelerim sayesinde pratik deneyimler edindim ve kendimi sürekli olarak geliştirmeye devam ediyorum.</p>
+
+  <h2>Blog ve İçerik Üretimi</h2>
+  <p>Bu blog sayfasında, medya dünyasına dair ilginç konuları, yeni gelişmeleri ve deneyimlerimi paylaşmayı amaçlıyorum. Yazılarımda, medya sektöründeki güncel olayları ele alacak, içerik üretimi süreçlerini tartışacak ve kişisel deneyimlerimi paylaşarak okuyucularıma faydalı bir içerik sunmayı hedefliyorum.</p>
+
+   <h2>İletişim</h2>
+  <p>Eğer benimle iletişime geçmek, sorular sormak veya işbirliği tekliflerinde bulunmak isterseniz, benimle aşağıdaki iletişim bilgilerinden herhangi birini kullanarak kolaylıkla iletişime geçebilirsiniz:</p>

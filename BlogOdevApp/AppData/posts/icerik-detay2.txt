@@ -1,0 +1,3 @@
+<p>Yazılım geliştirme, bilgisayar programlarının tasarımı, oluşturulması, test edilmesi ve bakımını içeren süreci ifade eder. Bu süreç, genellikle bir dizi adımdan oluşur: gereksinimlerin belirlenmesi, tasarım, kodlama, test etme ve dağıtım.</p>
+    <p>Yazılım geliştirme, birçok farklı programlama dilini kullanarak gerçekleştirilebilir ve hemen hemen her sektörde kullanılır. Bu süreç, karmaşık bir algoritmanın oluşturulmasından basit bir web sitesi tasarımına kadar her türlü yazılım ürününün geliştirilmesini kapsar.</p>
+    <p>Bu süreç, teknolojinin hızla ilerlemesiyle birlikte sürekli olarak yenilenmekte ve geliştirilmektedir. Yazılım geliştirme, bilgisayar bilimleri alanının önemli bir parçasıdır ve günümüzün dijital dünyasında vazgeçilmez bir role sahiptir.</p>
